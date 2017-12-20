@@ -9,6 +9,10 @@ div.speaker h3 {
   overflow: hidden;
 }
 
+.email-collect-first {
+  margin-top: 0em;
+}
+
 .header {
   background-image: url(../images/background.jpg);
   background-position-x: 50%;
@@ -20,4 +24,8 @@ div.speaker h3 {
   background-origin: initial;
   background-clip: initial;
   background-color: rgb(92, 92, 106);
+}
+
+.when-and-where {
+  color: #efe9e0;
 }
