@@ -8,3 +8,16 @@ div.speaker h3 {
   margin: 2.5em 0 0;
   overflow: hidden;
 }
+
+.header {
+  background-image: url(../images/background.jpg);
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-size: initial;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-attachment: scroll;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(92, 92, 106);
+}
