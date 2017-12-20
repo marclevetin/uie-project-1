@@ -1,0 +1,10 @@
+div.speaker h3 {
+  padding-top: 0em;
+}
+
+.email-collect {
+  border: 1px solid #ddd;
+  background: #fff;
+  margin: 2.5em 0 0;
+  overflow: hidden;
+}
