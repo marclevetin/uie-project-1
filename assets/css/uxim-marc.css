@@ -55,3 +55,7 @@ hr {
 a.email-content-block {
   text-shadow: none;
 }
+
+a.small-nav-link {
+  border-bottom: none;
+}
