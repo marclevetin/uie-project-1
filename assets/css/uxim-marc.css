@@ -59,3 +59,31 @@ a.email-content-block {
 a.small-nav-link {
   border-bottom: none;
 }
+
+.headshot h3 {
+  color: #5c626a;
+}
+
+.headshot h4 {
+  color: #c56c76;
+}
+
+.headshot h4::before {
+  content: "with ";
+  color: #5c626a;
+}
+
+img.headshot {
+  width: 118px;
+  margin: 0.9em 0 0 1em;
+  float: right;
+  display: block;
+}
+
+.speaker-preview .speaker {
+  padding-left: 0px;
+}
+
+.featured-talk .speaker-preview .speaker {
+  padding-left: 0px;
+}
