@@ -1,0 +1,53 @@
+div.speaker h3 {
+  padding-top: 0em;
+}
+
+.email-collect {
+  border: 1px solid #ddd;
+  background: #fff;
+  margin: 2.5em 0 0;
+  overflow: hidden;
+}
+
+.email-collect-first {
+  margin-top: 0em;
+}
+
+.header {
+  background-image: url(../images/background.jpg);
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-size: initial;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-attachment: scroll;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(92, 92, 106);
+}
+
+.when-and-where {
+  color: #efe9e0;
+}
+
+footer {
+    background: #51525a;
+    color: #ccccd1;
+    font-size: 0.875em;
+    display: table-row;
+    height: 1px;
+}
+
+.chunk {
+  margin-bottom: 2em;
+}
+
+.kick-left {
+  margin-left: 4%;
+}
+
+hr {
+  text-align:center;
+  margin: 0 auto 2em auto;
+
+}
