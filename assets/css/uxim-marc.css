@@ -81,13 +81,22 @@ img.headshot {
 }
 
 .speaker-preview .speaker {
-  padding-left: 0px;
+  padding-left: 0.75em;
 }
 
-.featured-talk .speaker-preview .speaker {
+.speaker-no-pad {
   padding-left: 0px;
 }
 
 .get-ready {
   margin-bottom: 2.5em;
+}
+
+.speaker-preview .speaker h3 a {
+  color: #5c626a;
+}
+
+/* the a background size chane is to fix underlines on speaker names on the index page. */
+a {
+  background-size: 0px;
 }
