@@ -29,3 +29,25 @@ div.speaker h3 {
 .when-and-where {
   color: #efe9e0;
 }
+
+footer {
+    background: #51525a;
+    color: #ccccd1;
+    font-size: 0.875em;
+    display: table-row;
+    height: 1px;
+}
+
+.chunk {
+  margin-bottom: 2em;
+}
+
+.kick-left {
+  margin-left: 4%;
+}
+
+hr {
+  text-align:center;
+  margin: 0 auto 2em auto;
+
+}
