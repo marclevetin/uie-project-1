@@ -38,6 +38,10 @@ footer {
     height: 1px;
 }
 
+footer a {
+  color: #c56c76
+}
+
 .chunk {
   margin-bottom: 2em;
 }
@@ -99,4 +103,10 @@ img.headshot {
 /* the a background size chane is to fix underlines on speaker names on the index page. */
 a {
   background-size: 0px;
+}
+
+.button.pink {
+  border-color: #c56c76;
+  background: #c56c76;
+  box-shadow: none;
 }
