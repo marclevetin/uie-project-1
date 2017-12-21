@@ -110,3 +110,7 @@ a {
   background: #c56c76;
   box-shadow: none;
 }
+
+.round-headshot {
+  border: 2px solid #c56c76;
+}
